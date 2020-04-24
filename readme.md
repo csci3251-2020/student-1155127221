@@ -7,15 +7,15 @@ I am He Zhanbo,Bob. I am a CS student. I think CS is a very hard subject.
 
 ## Programming language that i want to learn
 * C++
-*Javascript
-*Python
-*C#
+* Javascript
+* Python
+* C#
 
 ## To do list
 
--[x] finsih
--[ ] commit
--[ ] push
+- [x] finsih
+- [ ] commit
+- [ ] push
 
 ## Thing i want to do at university
 | Things | already do it or not |
