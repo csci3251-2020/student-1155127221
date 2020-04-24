@@ -24,4 +24,5 @@ I am He Zhanbo,Bob. I am a CS student. I think CS is a very hard subject.
 |Join a sport team |  Yes       |
 |participate a competition | NOt yet |
 
+## Screenshot
 ![milestone2 screenshot](https://github.com/csci3251-2020/student-1155127221/blob/master/Project%20milestone%202%20screenshot.png)
