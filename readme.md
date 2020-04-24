@@ -1,11 +1,11 @@
-#CSCI 3251 Projecr milestone
+# CSCI 3251 Projecr milestone
 
-##About myself
+## About myself
 
 I am He Zhanbo,Bob. I am a CS student. I think CS is a very hard subject. 
 **I ever doubted that It is a suitable choice for me to study CS?**
 
-##Programming language that i want to learn
+## Programming language that i want to learn
 * C++
 *Javascript
 *Python
